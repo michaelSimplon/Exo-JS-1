@@ -1,4 +1,4 @@
-#EXO 1 : Fonction addition
+# EXO 1 : Fonction addition
 
 La fonction addition est déja crée mais ne contient rien et ne fait rien.
 
@@ -7,7 +7,7 @@ Votre objectif va être de donner à cette fonction un nombre(3 par exemple) et 
 Enfin, appelez la en lui donnant d'autres nombres.
 
 
-###Pour info :
+### Pour info :
 
 lorsque vous voyez quelque chose de ce genre :
 
